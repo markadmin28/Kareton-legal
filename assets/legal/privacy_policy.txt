@@ -1,0 +1,53 @@
+Kareton Privacy Policy
+Last updated: June 2026
+
+Kareton ("the app") is an offline-first vehicle expense and trip assistant. This policy explains what the app accesses on your device and how information is handled.
+
+1. Summary
+- Most data stays on your phone in a local database.
+- We do not operate a Kareton cloud account or sell your data.
+- Voice features use your device's built-in speech tools; we do not send your voice to Kareton servers.
+- Optional network use is limited (see section 5).
+
+2. Data stored on your device
+- Profile: your display name (optional), vehicle names, plates, settings.
+- Expenses: receipts, amounts, categories, dates, odometer readings.
+- Trips: GPS-based distance for business/personal logs and auto-detected pending trips.
+- Digital pocket: photos you choose for license, insurance, and registration.
+- Calendar reminders you create.
+- Budget caps and alert preferences you set.
+- Backups you export manually (database file you share).
+
+3. Permissions and why we use them
+- Camera: scan receipt images.
+- Microphone: only when you use hands-free driving mode (push-to-talk commands such as fuel, trip, summary, budget) or voice confirmation after a receipt scan (yes/no). Audio is processed by your phone's speech recognition service; Kareton does not record or upload voice to its own servers. The microphone is not used in the background or while hands-free mode is off.
+- Location (foreground and background): Kareton shows a prominent in-app disclosure before asking for location. We use GPS only to measure trip distance for live tracking and automatic trip detection while those features are on—including when the app is in the background or the screen is locked, so drives are not interrupted. Location is processed on-device only; it is not uploaded to Kareton servers or sold. You may choose "Allow all the time" on Android for background trips, or deny/revoke location in Settings at any time.
+- Notifications: maintenance alerts, calendar reminders, trip inbox, budget warnings, optional monthly backup reminder.
+- Storage / photos: save receipt images and digital pocket documents locally.
+- Internet (optional): weather lookup for the full pre-trip voice briefing uses coordinates sent to Open-Meteo (open-meteo.com). No other Kareton server receives this data.
+
+4. Your choices
+- Deny or revoke permissions in Android Settings (some features will stop working).
+- Turn off hands-free driving mode and spoken alerts in the app menu.
+- Delete expenses, trips, and documents inside the app.
+- Clear all app data or uninstall to remove local storage.
+- Export or delete backups you created.
+
+5. Third-party services
+- Your device OS speech recognition and text-to-speech (when you use voice features).
+- Open-Meteo: weather API when the in-app briefing or weather feature runs (latitude/longitude only for the request).
+- Google Play services / device OS: standard platform behavior for apps installed from Google Play.
+
+6. Children
+The app is not directed at children under 13.
+
+7. Security
+Data is stored in the app private storage area on your device. Protect your device with a screen lock. Exported backup files are your responsibility.
+
+8. Changes
+We may update this policy. The in-app copy will be updated with the app. Hosted URL version (if provided) should match.
+
+9. Contact
+For privacy questions, use the support contact listed on the Google Play store listing or in app settings (About Kareton).
+
+Disclaimer: Kareton provides organizational tools only, not legal, tax, or mechanical advice.
