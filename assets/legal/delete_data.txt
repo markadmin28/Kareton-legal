@@ -1,0 +1,28 @@
+Delete Your Data — Kareton
+
+Kareton (Kareton: Expenses & Mileage) stores your information locally on your device. We do not operate a Kareton cloud account.
+
+How to delete your data
+
+1. Inside the app
+   - Delete individual expenses, trips, and documents.
+   - Remove vehicles from your fleet if you no longer need them.
+   - Clear Digital Pocket photos/documents you added.
+
+2. Delete everything at once
+   - Android Settings → Apps → Kareton → Storage → Clear data (or Clear storage).
+   - Or uninstall Kareton. This removes all local app data on that device.
+
+3. Backups you created
+   - If you exported a backup file (.db or shared copy), delete that file yourself from your device, email, or cloud drive. Kareton does not host your backups.
+
+What is deleted
+   - Profile name, vehicles, expenses, trips, receipts, digital pocket files, budgets, reminders, and app settings on that device.
+
+What we keep
+   - Kareton does not store your data on our servers. Nothing is retained by Kareton after you clear app data or uninstall.
+   - Google Play may retain purchase history according to Google’s policies (manage in play.google.com).
+
+Optional: contact markie.gorit@gmail.com if you need help finding these steps.
+
+Last updated: June 2026
